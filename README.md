@@ -4,7 +4,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basith-04&show_icons=true&theme=radical)
 
 ## Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=basith-04&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=basith-04&theme=radical)
 
 
 ## Most Used Languages
