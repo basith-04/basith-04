@@ -1,5 +1,5 @@
 #  About Me:
-🛠️ I’m currently working on building web applications, AI/ML projects, and startup-focused solutions.<br>🤝 I’m looking to collaborate on web development, AI agents, and innovative tech ideas for businesses.<br>🤲 I’m looking for help with scaling AI-powered tools, real-time systems, and advanced deployment.<br>🌱 I’m currently learning mern, dsa, Generative AI, and entrepreneurship.<br>💭 Ask me about web development, AI/ML, activities, or startup ideation.<br>
+🛠 I’m currently working on building web applications, AI/ML projects, and startup-focused solutions.<br> I’m looking to collaborate on web development, AI agents, and innovative tech ideas for businesses.<br> I’m looking for help with scaling AI-powered tools, real-time systems, and advanced deployment.<br> I’m currently learning mern, dsa, Generative AI, and entrepreneurship.<br> Ask me about web development, AI/ML, activities, or startup ideation.<br>
 
 
 #  Tech Stack:
